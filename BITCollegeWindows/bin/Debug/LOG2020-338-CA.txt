@@ -1,0 +1,25 @@
+
+ ------ Error------
+ File: 
+ Program: 
+ Student Number: 
+ Course Number: 
+ Registration Number: 
+ Type: 
+ Grade: 
+ Notes: 
+ Nodes: 83
+ The record contains incorrect number of child elements, must include 7 elements.
+ ------------------
+ ------ Error------
+ File: 
+ Program: 
+ Student Number: 
+ Course Number: 
+ Registration Number: 
+ Type: 
+ Grade: 
+ Notes: 
+ Nodes: 83
+ The record contains incorrect number of child elements, must include 7 elements.
+ ------------------
